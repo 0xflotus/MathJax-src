@@ -50,7 +50,7 @@
     "lodash": "^4.17.14",
     "minimist": ">=1.2.2",
     "rimraf": "^3.0.0",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "tape": "^4.8.0",
     "tslint": "^3.15.0",
     "tslint-jsdoc-rules": "*",
